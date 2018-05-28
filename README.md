@@ -4,7 +4,7 @@ It sets up HAP-NodeJS (HomeKit Accessory Server) for Sonoff switches on an RPI w
 # TL;DR
 On a clean Raspberry Pi with a fixed IP and installed OSMC, issue the following command to install the server:
 ```bash
-curl -sSL https://goo.gl/XXXX | bash
+curl -sSL https://goo.gl/pH5zCp | bash
 ```
 Then install an accessory (Sonoff or GPIO pin) using the following command:
 ```bash
@@ -54,7 +54,7 @@ password: osmc
 ## Install script
 To install HAP-NodeJS, I created a simple script that will do everything for you. Just execute the following line on your Raspberry Pi, lay back and relax. This can take a while (up to 1 hour, maybe even longer...).
 ```bash
-curl -sSL https://goo.gl/XXXXX | bash
+curl -sSL https://goo.gl/pH5zCp | bash
 ```
 *cURLing and Piping To Bash can be dangerous, if you do not trust this, I recommend you to download the file with 'wget', check its content and then run the installer yourself.*
 
