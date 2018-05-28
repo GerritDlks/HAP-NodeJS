@@ -1,10 +1,10 @@
 # OSMC AppleHomekit Server
-It sets up HAP-NodeJS (HomeKit Accessory Server) for Sonoff switches and togling the Raspberry Pi's GPIO pins.
+It sets up HAP-NodeJS (HomeKit Accessory Server) for Sonoff switches on an RPI with OSMC.
 
 # TL;DR
 On a clean Raspberry Pi with a fixed IP and installed OSMC, issue the following command to install the server:
 ```bash
-curl -sSL https://goo.gl/8oN37T | bash
+curl -sSL https://goo.gl/XXXX | bash
 ```
 Then install an accessory (Sonoff or GPIO pin) using the following command:
 ```bash
