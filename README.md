@@ -24,7 +24,6 @@ Check out below to see how to use and configure a [Sonoff basic](https://www.ite
 
 # Table of Contents
 - [Install HAP](#install-hap)
-    - [Prerequisites](#prerequisites)
     - [Install script](#install-script)
     - [Add light accessories](#add-light-accessories)
 - [Accessory installer](#accessory-installer) (very usefull)
@@ -38,9 +37,6 @@ Check out below to see how to use and configure a [Sonoff basic](https://www.ite
 
 
 # Install HAP
-## Prerequisites
-Before you can start your installation of a HAP-NodeJS server, you first need to [preconfigure](https://github.com/Kevin-De-Koninck/Apple-Homekit-and-PiHole-server/blob/master/install%20files/prerequisites.sh) your Raspberry Pi:  
-
 #### OS
 I use [OSMC](https://osmc.tv/download/).
 
