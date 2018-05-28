@@ -124,3 +124,6 @@ restartHAP
 
 ## Send commands directly
 This is a quick tip, but you can send commands directly to your Sonoff device from your raspberry pi. For more information on this, check [this wiki](https://github.com/arendst/Sonoff-Tasmota/wiki/Commands).
+
+## HAP-NodeJS Homekit PIN
+`031-45-154`
